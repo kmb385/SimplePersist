@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>SimplePersist</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<variableList>
+		<variable>
+			<name>PROJECT_PROPERTIES</name>
+			<value>file:/C:/Users/Kevin%20Bowersox/Desktop/Development/Eclipse%20Workspace/SimplePersist/properties</value>
+		</variable>
+	</variableList>
+</projectDescription>
